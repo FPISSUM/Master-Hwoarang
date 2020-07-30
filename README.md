@@ -2,15 +2,21 @@
 
 This moveset mod was created to envision Hwoarang as he a master just like his former master Baek-Doo-San
 by allowing him to access a good amount of LFF and RFF moves in LFS and RFS stances respectively.
-Which in turn made his safety even higher while making his pressure even better with the added touch of Baek's style.
+
+Which in turn made his safety even higher while making
+his pressure even better with the added touch of Baek's style.
 
 This moveset mod was made using @Kiloutre's Tekken Moveset Extractor, without it this idea would simply remain as such. 
 
 # TRAILER
-Here's a trailer of Master Hwoarang should he be released in the world of TEKKEN 7
+Here's a trailer of Master Hwoarang if he was released in the world of TEKKEN 7
+
+https://twitter.com/FPISSUM/status/1288873910868508678?s=20
 
 # COMBO VIDEO
 Discover the Power of a Master! Masters Beastill, Cliche, & Wyngale showcase what Hwoarang at his full potential is capable of!
+
+https://twitter.com/FPISSUM/status/1288874004825223171?s=20
 
 # DISCLAIMER
 
